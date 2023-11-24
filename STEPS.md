@@ -18,7 +18,7 @@
 ## Database Design
 
 
-#Model
+#Model sequence for E-Commerce Project
 1. CategoryModel
 2. BrandModel
 3. productModel
