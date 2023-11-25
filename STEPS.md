@@ -17,6 +17,7 @@
 
 ## Database Design
 
+# Creating a model with this sequence
 
 #Model sequence for E-Commerce Project
 1. CategoryModel
@@ -34,3 +35,10 @@
 13. invoiceProductModel
 
 
+# Controller Sequence
+1. BrandController
+2. CategoryController
+3. InvoiceController
+4. ProductController
+5. ProfileController
+6. UserController
